@@ -62,9 +62,47 @@ and for run the project it would be npm run dev as dev is dependencies in pavkag
 
 #
 
-<h3> UserManagement </h3>
+<h3> UserManagement :-> User Management is a crucial feature in any system, allowing administrators to efficiently control and oversee user accounts. It involves creating, updating, and deleting users, managing user details such as their names and emails, and controlling their access and permissions within the application.</h3>
 <h4> Sample output </h4>
 
-![Screenshot 1](assets/.jpg)
+<h5>SampleUser</h5>
+<img src="assets/sampleUser.jpg" alt="Screenshot 1" width="300" style="display: inline; margin-right: 10px;">
+<h5>AddUsers</h5>
+<img src="assets/Addusers.jpg" alt="Screenshot 1" width="300" style="display: inline; margin-right: 10px;">
+<h5>deleteUser</h5>
+<img src="assets/deleteUser.jpg" alt="Screenshot 2" width="300" style="display: inline;">
+<h5>updateUser</h5>
+<img src="assets/updateUser.jpg" alt="Screenshot 2" width="300" style="display: inline;">
 
+
+#
+
+<h3> RoleManagement -> Role Management is a key part of a Role-Based Access Control (RBAC) system, where roles are defined and assigned to users to determine what actions they can perform within the system. Each role corresponds to a set of permissions that define the user’s access level.</h3>
+<h4> Sample output </h4>
+
+<h5>SampleUser</h5>
+<img src="assets/sampleRole.jpg" alt="Screenshot 1" width="300" style="display: inline; margin-right: 10px;">
+<h5>AddUsers</h5>
+<img src="assets/AddRole.jpg" alt="Screenshot 1" width="300" style="display: inline; margin-right: 10px;">
+<h5>deleteUser</h5>
+<img src="assets/deleteRole.jpg" alt="Screenshot 2" width="300" style="display: inline;">
+<h5>updateUser</h5>
+<img src="assets/updateRole.jpg" alt="Screenshot 2" width="300" style="display: inline;">
+
+
+
+
+#
+
+<h3> PermissionManagement -> Permission Management is a vital component of a Role-Based Access Control (RBAC) system, which allows administrators to define and control what actions users can perform within an application. It involves creating, updating, and assigning permissions to different roles, such as Read, Write, and Delete permissions.</h3>
+<h4> Sample output </h4>
+
+<h5>SampleUser</h5>
+<img src="assets/samplePermission.jpg" alt="Screenshot 1" width="300" style="display: inline; margin-right: 10px;">
+<h5>AddUsers</h5>
+<img src="assets/AddPermission.jpg" alt="Screenshot 1" width="300" style="display: inline; margin-right: 10px;">
+<h5>deleteUser</h5>
+<img src="assets/deletePermissionn.jpg" alt="Screenshot 2" width="300" style="display: inline;">
+<h5>updateUser</h5>
+<img src="assets/updatePermission.jpg" alt="Screenshot 2" width="300" style="display: inline;">
 
