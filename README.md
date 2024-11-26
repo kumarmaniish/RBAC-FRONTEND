@@ -53,3 +53,18 @@ and for run the project it would be npm run dev as dev is dependencies in pavkag
 
 ![Screenshot 1](assets/commandToRun.jpg)
 
+
+
+# 
+
+
+<h2> Output of projects </h2>
+
+#
+
+<h3> UserManagement </h3>
+<h4> Sample output </h4>
+
+![Screenshot 1](assets/.jpg)
+
+
