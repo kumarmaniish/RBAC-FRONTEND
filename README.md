@@ -34,5 +34,22 @@ Use CSS to make the app look nice and easy to use, with readable text and button
 Test everything: adding users, editing roles, and assigning permissions.
 Make sure everything works, and if there are errors (like missing data), handle them well.
 
-<h3>I just paste the folder structure. </h3>
-<img src=>
+#
+
+<h3>This is the folder structure </h3>
+
+![Screenshot 1](assets/folderdirectory.jpg)
+
+#
+
+<h3> This is package.json file </h3>
+
+![Screenshot 1](assets/packagejsonfile.jpg)
+
+#
+
+<h3><i>I used vite and react.js to create this projects so command for create the project is npm create vite@latest 
+and for run the project it would be npm run dev as dev is dependencies in pavkage.json whose meaning is vite to run the project so the screenshot is </i></h3>
+
+![Screenshot 1](assets/commandToRun.jpg)
+
